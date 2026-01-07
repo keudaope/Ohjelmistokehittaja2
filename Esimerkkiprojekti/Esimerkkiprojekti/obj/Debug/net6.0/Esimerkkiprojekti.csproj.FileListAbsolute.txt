@@ -1,0 +1,15 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\bin\Debug\net6.0\Esimerkkiprojekti.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\bin\Debug\net6.0\Esimerkkiprojekti.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\bin\Debug\net6.0\Esimerkkiprojekti.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\bin\Debug\net6.0\Esimerkkiprojekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\bin\Debug\net6.0\Esimerkkiprojekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\refint\Esimerkkiprojekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\Esimerkkiprojekti.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Esimerkkiprojekti\Esimerkkiprojekti\obj\Debug\net6.0\ref\Esimerkkiprojekti.dll
