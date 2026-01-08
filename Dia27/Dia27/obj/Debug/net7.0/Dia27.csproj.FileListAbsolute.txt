@@ -1,0 +1,15 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\bin\Debug\net7.0\Dia27.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\bin\Debug\net7.0\Dia27.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\bin\Debug\net7.0\Dia27.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\bin\Debug\net7.0\Dia27.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\bin\Debug\net7.0\Dia27.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\refint\Dia27.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\Dia27.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Dia27\Dia27\obj\Debug\net7.0\ref\Dia27.dll
