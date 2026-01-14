@@ -1,0 +1,15 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\bin\Debug\net7.0\Lumoakatemia_Perustehtavat.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\bin\Debug\net7.0\Lumoakatemia_Perustehtavat.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\bin\Debug\net7.0\Lumoakatemia_Perustehtavat.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\bin\Debug\net7.0\Lumoakatemia_Perustehtavat.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\bin\Debug\net7.0\Lumoakatemia_Perustehtavat.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\refint\Lumoakatemia_Perustehtavat.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\Lumoakatemia_Perustehtavat.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_Perustehtavat\Lumoakatemia_Perustehtavat\obj\Debug\net7.0\ref\Lumoakatemia_Perustehtavat.dll
