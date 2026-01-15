@@ -1,0 +1,15 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\bin\Debug\net7.0\Lumoakatemia_If_tehtavia.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\bin\Debug\net7.0\Lumoakatemia_If_tehtavia.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\bin\Debug\net7.0\Lumoakatemia_If_tehtavia.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\bin\Debug\net7.0\Lumoakatemia_If_tehtavia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\bin\Debug\net7.0\Lumoakatemia_If_tehtavia.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\refint\Lumoakatemia_If_tehtavia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\Lumoakatemia_If_tehtavia.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Lumoakatemia_If_tehtavia\Lumoakatemia_If_tehtavia\obj\Debug\net7.0\ref\Lumoakatemia_If_tehtavia.dll
