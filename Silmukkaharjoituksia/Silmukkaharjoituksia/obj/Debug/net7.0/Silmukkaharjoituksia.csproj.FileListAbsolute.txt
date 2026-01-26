@@ -1,0 +1,15 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\bin\Debug\net7.0\Silmukkaharjoituksia.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\bin\Debug\net7.0\Silmukkaharjoituksia.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\bin\Debug\net7.0\Silmukkaharjoituksia.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\bin\Debug\net7.0\Silmukkaharjoituksia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\bin\Debug\net7.0\Silmukkaharjoituksia.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\refint\Silmukkaharjoituksia.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\Silmukkaharjoituksia.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Silmukkaharjoituksia\Silmukkaharjoituksia\obj\Debug\net7.0\ref\Silmukkaharjoituksia.dll
