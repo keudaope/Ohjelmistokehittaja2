@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\bin\Debug\net7.0-windows\Ensimmäinen graafinen projekti.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\bin\Debug\net7.0-windows\Ensimmäinen graafinen projekti.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\bin\Debug\net7.0-windows\Ensimmäinen graafinen projekti.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\bin\Debug\net7.0-windows\Ensimmäinen graafinen projekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\bin\Debug\net7.0-windows\Ensimmäinen graafinen projekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen_graafinen_projekti.EkaProjekti.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\refint\Ensimmäinen graafinen projekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\Ensimmäinen graafinen projekti.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Ensimmäinen graafinen projekti\Ensimmäinen graafinen projekti\obj\Debug\net7.0-windows\ref\Ensimmäinen graafinen projekti.dll

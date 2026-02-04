@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\bin\Debug\net7.0-windows\tokaProjekti.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\bin\Debug\net7.0-windows\tokaProjekti.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\bin\Debug\net7.0-windows\tokaProjekti.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\bin\Debug\net7.0-windows\tokaProjekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\bin\Debug\net7.0-windows\tokaProjekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.harjoitus2FM.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\refint\tokaProjekti.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\tokaProjekti.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\tokaProjekti\tokaProjekti\obj\Debug\net7.0-windows\ref\tokaProjekti.dll

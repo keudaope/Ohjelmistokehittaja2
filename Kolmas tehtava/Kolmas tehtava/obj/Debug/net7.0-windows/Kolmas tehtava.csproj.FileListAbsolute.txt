@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\bin\Debug\net7.0-windows\Kolmas tehtava.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\bin\Debug\net7.0-windows\Kolmas tehtava.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\bin\Debug\net7.0-windows\Kolmas tehtava.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\bin\Debug\net7.0-windows\Kolmas tehtava.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\bin\Debug\net7.0-windows\Kolmas tehtava.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas_tehtava.nelilaskinFM.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\refint\Kolmas tehtava.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\Kolmas tehtava.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Kolmas tehtava\Kolmas tehtava\obj\Debug\net7.0-windows\ref\Kolmas tehtava.dll
