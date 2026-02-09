@@ -1,0 +1,18 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\bin\Debug\net7.0-windows\Tehtävä 8.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\bin\Debug\net7.0-windows\Tehtävä 8.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\bin\Debug\net7.0-windows\Tehtävä 8.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\bin\Debug\net7.0-windows\Tehtävä 8.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\bin\Debug\net7.0-windows\Tehtävä 8.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä_8.RoomalaisetNumerotFM.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä_8.Properties.Resources.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\refint\Tehtävä 8.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\Tehtävä 8.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 8\Tehtävä 8\obj\Debug\net7.0-windows\ref\Tehtävä 8.dll

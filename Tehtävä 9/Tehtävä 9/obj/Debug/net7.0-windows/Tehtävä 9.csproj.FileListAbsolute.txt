@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\bin\Debug\net7.0-windows\Tehtävä 9.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\bin\Debug\net7.0-windows\Tehtävä 9.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\bin\Debug\net7.0-windows\Tehtävä 9.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\bin\Debug\net7.0-windows\Tehtävä 9.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\bin\Debug\net7.0-windows\Tehtävä 9.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä_9.Form1.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\refint\Tehtävä 9.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\Tehtävä 9.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 9\Tehtävä 9\obj\Debug\net7.0-windows\ref\Tehtävä 9.dll
