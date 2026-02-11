@@ -1,0 +1,17 @@
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\bin\Debug\net7.0-windows\Tehtävä 14.exe
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\bin\Debug\net7.0-windows\Tehtävä 14.deps.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\bin\Debug\net7.0-windows\Tehtävä 14.runtimeconfig.json
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\bin\Debug\net7.0-windows\Tehtävä 14.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\bin\Debug\net7.0-windows\Tehtävä 14.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.csproj.AssemblyReference.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä_14.PaivakirjaFM.resources
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.csproj.GenerateResource.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.AssemblyInfoInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.AssemblyInfo.cs
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.csproj.CoreCompileInputs.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\refint\Tehtävä 14.dll
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.pdb
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\Tehtävä 14.genruntimeconfig.cache
+C:\Users\jyrili.KEUDA\source\repos\Ohjelmistokehittaja2\Tehtävä 14\Tehtävä 14\obj\Debug\net7.0-windows\ref\Tehtävä 14.dll
